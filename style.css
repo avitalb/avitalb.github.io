@@ -22,10 +22,6 @@ body {
 h1 {
     font-size: 30px;
 }
-p {
-    /* align-items: center; */
-    font-size: 12px;
-}
 
 a:link {
     color: #268bd2;
