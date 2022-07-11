@@ -33,10 +33,7 @@ a:visited {
     text-decoration: none;
 }
 
-footer {
-    padding-bottom: 1em;
+.footer {
     position: fixed;
-    bottom: 0;
-    left: 0;
     font-size: 9px;
 }
